@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.d5a079a6.css",
+    "main.js": "/react-portfolio/static/js/main.a040e088.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/run-buddy.png": "/react-portfolio/static/media/run-buddy.b2621bf9228cd5cab0bf.png",
+    "static/media/books-of-alexandria.png": "/react-portfolio/static/media/books-of-alexandria.74f360c9c634d5402a80.png",
+    "static/media/logo.png": "/react-portfolio/static/media/logo.d4a06a2a20d798502017.png",
+    "static/media/zookeepr.png": "/react-portfolio/static/media/zookeepr.8d3975200db06dd846f1.png",
+    "static/media/project1.png": "/react-portfolio/static/media/project1.3f7c9cc6e14fb0aeb12f.png",
+    "static/media/weather.png": "/react-portfolio/static/media/weather.2ac40f73b70100df4e18.png",
+    "static/media/HTML-CSS-JS.png": "/react-portfolio/static/media/HTML-CSS-JS.e2129a1747e94792e3f7.png",
+    "static/media/headshot.png": "/react-portfolio/static/media/headshot.bb925f646bcda0a35018.png",
+    "static/media/ISS.png": "/react-portfolio/static/media/ISS.170c58d45c2b0ddd848a.png",
+    "static/media/mySQL.png": "/react-portfolio/static/media/mySQL.3540c241af1d9b798bb9.png",
+    "static/media/mongo.png": "/react-portfolio/static/media/mongo.63f202ada7ff3c087559.png",
+    "static/media/adobe.png": "/react-portfolio/static/media/adobe.60aa169fd267c415f1fa.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.d5a079a6.css.map": "/react-portfolio/static/css/main.d5a079a6.css.map",
+    "main.a040e088.js.map": "/react-portfolio/static/js/main.a040e088.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a079a6.css",
+    "static/js/main.a040e088.js"
+  ]
+}
