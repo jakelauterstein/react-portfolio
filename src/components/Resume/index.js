@@ -12,7 +12,7 @@ function Resume () {
     return (
 <div>
         <center><a href="https://drive.google.com/file/d/1h-ZizzNekJQDs58Zgmbm3OCtipbZdkJL/view?usp=sharing"
-        download><h1>Download Resume</h1></a>
+        download><h1 id="resume">Download Resume</h1></a>
         <h1>Proficient with:</h1></center>
         <CardGroup>
                     {/* 1 */}
