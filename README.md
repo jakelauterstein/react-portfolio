@@ -1,3 +1,65 @@
+# React-Portfolio
+
+## Description
+
+This single-page-app displays the author's recent projects deployed on github and serves as an example of basic undrstanding of the react framework.
+
+## Table of Contents
+
+Please reference the sidebar 'explorer' to view the file structure if needed
+
+### Installation
+
+run npm i to download dependencies
+
+### Usage
+
+The site is currently under construction to allow for conditional rendering.
+
+### License
+
+Open-source
+
+### Contributors
+
+Jake Lauterstein 
+
+### Tests
+
+n/a
+
+### Screenshot
+![full-site-screenshot](screenshot.png)
+
+### Github
+Github (code): [https://github.com/jakelauterstein/react-portfolio](https://github.com/jakelauterstein/react-portfolio)
+
+### Deployed App
+Github (deployed): [https://jakelauterstein.github.io/react-portfolio/](https://jakelauterstein.github.io/react-portfolio/)
+
+
+### Questions
+
+Should you have any questions/comments/concerns please reach out to the email listed below:
+
+
+email address: [jakelauterstein@gmail.com](mailto:jakelauterstein@gmail.com)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
