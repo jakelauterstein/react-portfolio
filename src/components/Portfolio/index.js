@@ -9,6 +9,7 @@ import weather from '../../assets/img/project-images/weather.png'
 import RB from '../../assets/img/project-images/run-buddy.png'
 import zookeepr from'../../assets/img/project-images/zookeepr.png'
 import ISS from '../../assets/img/project-images/ISS.png'
+import maecenas from '../../assets/img/project-images/maecenas.png'
 
 function Portfolio() {
     return (
@@ -31,15 +32,15 @@ function Portfolio() {
                 </Card>
                  {/* 2 */}
                 <Card style={{ width: '18rem' }}>
-                <Card.Img variant="top" src={ISS} />
+                <Card.Img variant="top" src={maecenas} />
                 <ListGroup className="list-group-flush">
-                    <ListGroupItem>Geolocation App</ListGroupItem>
+                    <ListGroupItem>Blog Subscription App</ListGroupItem>
                     <ListGroupItem>Utilizing:</ListGroupItem>
-                    <ListGroupItem>Fetch API</ListGroupItem>
+                    <ListGroupItem>MERN Stack</ListGroupItem>
                 </ListGroup>
                 <Card.Body>
-                    <Card.Link href="https://jakelauterstein.github.io/1.4-space-station-tracker-JSON/">App</Card.Link>
-                    <Card.Link href="https://github.com/jakelauterstein/1.4-space-station-tracker-JSON">Github</Card.Link>
+                    <Card.Link href="https://gentle-citadel-11319.herokuapp.com/">App</Card.Link>
+                    <Card.Link href="https://github.com/jakelauterstein/Maecenas-Devs">Github</Card.Link>
                 </Card.Body>
                 </Card>
                  {/* 3 */}
